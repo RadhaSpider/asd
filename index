@@ -1,0 +1,41 @@
+<Doctype HTML>
+<html>
+<head>
+<title>Landing Page</title>
+</head>
+<style>
+body {
+ text-align: center;
+}
+nav {
+background-color: aquamarine;
+padding: 10px;
+}
+ul {
+list-style-type: none;
+margin: 0px;
+padding: 0px;
+overflow: hidden;
+}
+li {
+float: left;
+}
+li a {
+display: block;
+}
+li a:hover {
+background-color: red;
+}
+</Style>
+<body>
+<nav>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="About.html">About</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</nav>
+<h2>Interesting Information</h2>
+<img rc = ""
+</body>
+</html>
